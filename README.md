@@ -1,4 +1,4 @@
-xetex
+XeTeX Project
 =====
 
 xetex
